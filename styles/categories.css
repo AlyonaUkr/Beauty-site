@@ -1,0 +1,37 @@
+.section_categories {
+    background-color: #FFFFFF;
+    padding: 60px 0;
+}
+
+.category {
+    width: 255px;
+
+}
+
+.title_category {
+    font-family: Roboto-medium;
+    font-size: 16px;
+    line-height: 140.62%;
+    color: #000000;
+    margin-bottom: 30px;
+}
+
+.category .line {
+    margin-bottom: 25px;
+}
+
+.category .item a {
+    font-family: Roboto-regular;
+    font-size: 12px;
+    line-height: 28px;
+    color: #828282;
+    text-decoration: none;
+}
+
+.item a:hover {
+    color: #F13C6E;
+}
+
+.margin ~ .category {
+    margin-left: 30px;
+}

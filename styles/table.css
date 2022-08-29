@@ -1,0 +1,21 @@
+.section_table {
+    background-color: #E5E5E5;
+}
+
+.table {
+    background-color: #FFFFFF;
+    table-layout: fixed;
+    border: 1px solid #EFEFEF;
+}
+
+td {
+    width: 277.5px;
+    border: 1px solid #EFEFEF;
+    text-align: center;
+    vertical-align: middle;
+}
+
+tr {
+    height: 119px;
+    border: 1px solid #EFEFEF;
+}

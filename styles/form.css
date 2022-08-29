@@ -1,0 +1,94 @@
+.section_form {
+    padding-bottom: 100px;
+    background-color: #E5E5E5;
+}
+
+.form {
+    width: 540px;
+    height: 212px;
+    background: #F13C6E;
+    padding: 35px 40px 35px 45px;
+}
+
+.form .margin-right {
+    margin-right: 30px;
+}
+
+.form .float-right {
+    float: right;
+}
+
+.form .float-left {
+    float: left;
+}
+
+.form_title {
+    font-family: Roboto-bolt;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin-bottom: 25px;
+}
+
+.form_info {
+    width: 231px;
+    font-family: Roboto-regular;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-bottom: 25px;
+}
+
+.form > .float-left {
+    float: left;
+}
+
+.form > .float-right {
+    float: right;
+}
+
+.img_letter {
+    margin-top: 18px;
+}
+
+.img_car {
+    margin-top: 21px;
+}
+
+.form_button {
+    width: 170px;
+    height: 35px;
+    background: #F13C6E;
+    border: 2px solid #FFFFFF;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.form_button:hover {
+    background-color: #ffb8cc;
+}
+
+.form_button a {
+    font-family: Roboto-regular;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.form_input {
+    width: 225px;
+    height: 35px;
+    background: #FFFFFF;
+    border-radius: 30px;
+    border: none;
+}
+
+::placeholder {
+    font-family: Roboto-regular;
+    font-size: 14px;
+    line-height: 16px;
+    color: #C4C4C4;
+    padding-left: 25px;
+}

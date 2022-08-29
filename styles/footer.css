@@ -1,0 +1,23 @@
+.footer {
+    background-color: #EFEFEF;
+    padding: 25px 0;
+}
+
+.text_footer {
+    font-family: Roboto-regula;
+    font-size: 12px;
+    line-height: 14px;
+    color: #828282;
+}
+
+.footer-link {
+    font-family: Roboto-regula;
+    font-size: 12px;
+    line-height: 14px;
+    color: #828282;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #F13C6E;
+}
